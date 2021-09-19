@@ -1,4 +1,4 @@
 # MOT
 just for readed article
 
-https://zhuanlan.zhihu.com/p/196622890
+Simple Online and Realtime Tracking  https://arxiv.org/abs/1602.00763
